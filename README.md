@@ -1,0 +1,1 @@
+This repository contains a simple JavaScript function demonstrating an uncommon error. The function aims to handle null values, but it might return unexpected results when dealing with NaN (Not a Number) values. The solution demonstrates better error handling to prevent unexpected NaN results and ensure function robustness.
